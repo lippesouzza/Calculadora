@@ -1,0 +1,15 @@
+C:\Curso\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Curso\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Curso\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ftodd\OneDrive\Área de Trabalho\Projetos Gen\Calculadora\3.1 Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
